@@ -29,8 +29,8 @@ A stunning, modern portfolio website showcasing my skills as a Flutter Developer
 
 ### Installation
 ```bash
-git clone https://github.com/AliAmmar2211/portfolio.git
-cd portfolio
+git clone https://github.com/AliAmmar2211/AliAmmar2211.github.io.git
+cd AliAmmar2211.github.io
 npm install
 ```
 
